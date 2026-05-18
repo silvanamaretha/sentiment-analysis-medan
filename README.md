@@ -78,9 +78,9 @@ Naive Bayes slightly outperforms SVM on this dataset, which is consistent with t
 
 Based on IndoBERT labeling of 596 tweets mentioning the Medan City Government:
 
-- **59% Neutral** — mostly informational tweets, event announcements, and factual reporting
-- **29% Negative** — dominated by criticism around vigilantism (premanisme), illegal parking, drainage issues, and lack of government transparency
-- **12% Positive** — appreciation for government programs, mostly formal/institutional accounts
+- **59% Neutral**: mostly informational tweets, event announcements, and factual reporting
+- **29% Negative**: dominated by criticism around vigilantism (premanisme), illegal parking, drainage issues, and lack of government transparency
+- **12% Positive**: appreciation for government programs, mostly formal/institutional accounts
 
 Key insight: Public sentiment on Twitter leans neutral-to-negative. The negative discourse is concentrated around public safety and organized crime tolerance, not basic services. Positive sentiment is notably scarce and largely driven by official accounts rather than organic public opinion.
 
