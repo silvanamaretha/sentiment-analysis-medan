@@ -1,6 +1,6 @@
 # Sentiment Analysis of Public Opinion on Medan City Government
 
-Old project — Silvana Maretha Br. Simbolon, Universitas Negeri Medan (2023)
+Project (2023, 2026)
 
 ---
 
